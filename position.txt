@@ -1,0 +1,37 @@
+*file_name.pos
+
+latitude[deg] , *value
+
+longitude[deg] ,*value
+
+height[m] ,*value
+
+
+
+*file_name.pos
+
+latitude[deg] , *value
+
+longitude[deg] ,*value
+
+height[m] ,*value
+
+
+
+*file_name.pos
+
+latitude[deg] , *value
+
+longitude[deg] ,*value
+
+height[m] ,*value
+
+
+
+*file_name.pos
+
+latitude[deg] , *value
+
+longitude[deg] ,*value
+
+height[m] ,*value
