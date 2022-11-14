@@ -1,10 +1,10 @@
 from BLHtoENU import trans_coordinate 
-
 if __name__ == '__main__':
+
     instance = trans_coordinate("sakai") #instance name
     #34°34'00.0"N 135°29'00.0"E
-    lat = 1352900.0 #ddmmss 135°29'00"
-    lon = 343400.0 #ddmmss 34°34'00"
+    lon = 1352900.0 #ddmmss 135°29'00"
+    lat = 343400.0 #ddmmss 34°34'00"
     h = 500 #[m]
     instance.input_BLH_ddmmss(lat, lon, h)
     print(instance.beta,instance.lambda_,instance.ht)
